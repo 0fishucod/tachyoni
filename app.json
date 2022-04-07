@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tachyoni",
+    "slug": "tachyoni",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
